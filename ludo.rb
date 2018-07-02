@@ -1,0 +1,2 @@
+puts "Ludo"
+puts "Kikou"
