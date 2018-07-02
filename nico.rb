@@ -1,0 +1,1 @@
+puts "j'aime qu'on m'enduise d'huile"
